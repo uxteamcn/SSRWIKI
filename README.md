@@ -3,7 +3,7 @@
 
 Mac：ShadowsocksX-NG-R8
 
-Windows:ShadowsocksR 4.7.0
+Windows：ShadowsocksR 4.7.0
 
 iOS：SsrConnectPro （APP Store搜索）
 
