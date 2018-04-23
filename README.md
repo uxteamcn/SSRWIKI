@@ -9,4 +9,6 @@ iOS：SsrConnectPro （APP Store搜索）
 
 安卓：ssr-3.4.0.5.apk （需要安装Google play）
 
-用软件扫描二维码可上网，点击Clone or download下载软件。
+简单来说就是用支持SS或者SSR的软件扫描二维码就可以了。
+
+需要软件的点击Clone or download下载软件。
